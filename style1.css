@@ -19,3 +19,13 @@
     width: 50px;
     border-radius: 50%;
 }
+.banner-section{
+    background: url(images/banner.png);
+    background-position: center;
+    background-size: cover;
+    width:100%;
+    height: 80vh;
+}
+.frame-icon{
+    text-align: center;
+}
